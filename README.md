@@ -6,9 +6,9 @@ My projects use statistical modeling, machine learning, and causal inference to 
 
 Currently, I’m developing projects involving transportation safety, urban systems, and operational performance.
 
-Portfolio: lily-harper.github.io 
+Portfolio: [lily-harper](lily-harper.github.io)
 
-LinkedIn: linkedin.com/in/lilyharperholmes
+LinkedIn: [lilyharperholmes](https://www.linkedin.com/in/lilyharperholmes/)
 
 Thank you! 
 
