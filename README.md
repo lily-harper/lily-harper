@@ -7,6 +7,7 @@ My main focus is the use of data science and machine learning techniques as a me
 Currently, I’m developing projects involving transportation safety, culture, and urban systems. 
 
 Portfolio: [lily-harper](https://lily-harper.github.io/)
+
 LinkedIn: [lilyharperholmes](https://www.linkedin.com/in/lilyharperholmes/)
 
 Thank you! 
