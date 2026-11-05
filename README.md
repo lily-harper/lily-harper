@@ -1,8 +1,8 @@
 ## Hi, I'm Lily Holmes 
 
-I’m an M.S. Data Science student at the University of Colorado Boulder interested in applied data science, operations analytics, and decision modeling.
+I’m an M.S. Data Science student at the University of Colorado Boulder interested in applied data science. 
 
-My main focus is the use of data science and machine learning techniques as a means to answer questions and explore topics. My projects use statistical modeling, machine learning, and causal inference to study systems such as transportation, public infrastructure, and logistics. I’m especially interested in forecasting, risk identification and resource allocation. 
+My main focus is the use of data science and machine learning techniques as a means to answer questions and explore topics.
 
 Currently, I’m developing projects involving transportation safety, culture, and urban systems. 
 
