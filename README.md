@@ -4,7 +4,7 @@ I’m an M.S. Data Science student at the University of Colorado Boulder ('sko b
 
 My main focus is the use of data science and machine learning techniques as a means to answer questions and explore topics.
 
-Currently, I’m developing projects involving transportation, culture, and urban systems.  
+I am interested in economics and applied data science. 
 
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square)
